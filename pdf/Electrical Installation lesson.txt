@@ -1,0 +1,3 @@
+<a href="../pdfs/electrical-installation.pdf" download>
+Download Electrical Installation PDF
+</a>

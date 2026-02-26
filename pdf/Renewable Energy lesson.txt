@@ -1,0 +1,3 @@
+<a href="../pdfs/renewable-energy.pdf" download>
+Download Renewable Energy PDF
+</a>

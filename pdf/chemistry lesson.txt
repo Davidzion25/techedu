@@ -1,0 +1,1 @@
+<a href="../pdfs/chemistry-lesson.pdf" download>Download Chemistry PDF</a>

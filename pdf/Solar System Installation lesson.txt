@@ -1,0 +1,3 @@
+<a href="../pdfs/solar-installation.pdf" download>
+Download Solar Installation PDF
+</a>
