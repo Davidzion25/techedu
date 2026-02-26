@@ -17,8 +17,3 @@ The purpose of TechEdu is to:
 - Encourage self-paced learning for students
 - Provide technical and vocational education support
 
----
-
-## 🌍 Live Website
-
-After deployment, TechEdu will be accessible at:
